@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">AplikasiAndroidSederhana</string>
+    <string name="anime_title">Judul Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_page">About</string>
+    <string name="name">Okky Pratama</string>
+    <string name="email">okky123@gmail.com</string>
+    <string name="content_desc">Deskripsi</string>
+    <string name="rating">Rating</string>
+    <string name="author">Pengarang</string>
+    <string name="genre">Genre</string>
+
+
+    <string-array name="data_title">
+        <item>Attack On Titan</item>
+        <item>Blue Lock</item>
+        <item>Chainsaw Man</item>
+        <item>Death Note</item>
+        <item>Demon Slayer</item>
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>Haikyuu!!</item>
+        <item>Hunter X Hunter</item>
+        <item>Jujutsu Kaisen</item>
+        <item>My Hero Academia</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Attack on Titan adalah anime yang mengikuti kisah umat manusia yang hidup dalam dinding yang sangat tinggi untuk melindungi diri dari serangan Titans, makhluk besar yang memakan manusia tanpa alasan yang jelas. Umat manusia yang tersisa terpaksa hidup dalam ketakutan dan terkurung dalam dinding selama lebih dari 100 tahun. Namun, semuanya berubah ketika Eren Yeager, Mikasa Ackerman, dan Armin Arlert menyaksikan dinding pertama di kota mereka dihancurkan oleh Titan raksasa yang misterius. Ketika Titan memasuki kota dan menyerang penduduknya, Eren bersumpah untuk membalas dendam dan melawan para Titans. </item>
+        <item>Blue Lock adalah anime yang bercerita tentang Yoichi Isagi, seorang siswa SMA yang memiliki kemampuan sepak bola yang luar biasa. Namun, dia merasa frustasi dengan permainannya karena tim sepak bola SMA-nya selalu kalah di turnamen.Kemudian, dia menerima undangan dari seorang pelatih sepak bola bernama Ego, yang memperkenalkannya pada Blue Lock, sebuah program pelatihan sepak bola eksklusif yang dirancang untuk menciptakan striker terbaik di Jepang.Yoichi dan para pemain lainnya yang juga telah dipilih untuk program ini harus bertarung satu sama lain dan bersaing untuk menjadi striker nomor satu. Mereka dituntut untuk menjadi pemain yang lebih egois dan fokus pada tujuan mencetak gol, tanpa perlu bergantung pada rekan satu tim mereka.</item>
+        <item>Chainsaw Man adalah anime yang menceritakan kisah Denji, seorang anak yatim piatu yang hidup sebagai tukang pembunuh iblis demi melunasi hutang ayahnya. Dia bekerja dengan pasangannya, seekor anjing setan bernama Pochita, yang memiliki kemampuan untuk berubah menjadi gergaji mesin raksasa.</item>
+        <item>Death Note adalah anime yang menceritakan kisah seorang pelajar jenius bernama Light Yagami, yang menemukan sebuah buku bernama Death Note yang jatuh dari langit. Light awalnya tidak percaya dengan kekuatan buku itu, tetapi setelah ia mengetahui bagaimana cara menggunakannya, ia memutuskan untuk menggunakan kekuatan itu untuk menghapus kejahatan dari dunia dan menciptakan sebuah dunia yang sempurna.</item>
+        <item>Demon Slayer adalah anime yang mengikuti kisah seorang anak bernama Tanjiro Kamado, yang hidup bahagia bersama keluarganya di sebuah desa terpencil. Suatu hari, keluarganya diserang oleh iblis yang memusnahkan seluruh keluarga Tanjiro, kecuali adiknya, Nezuko, yang berubah menjadi iblis. Tanjiro memutuskan untuk memulai perjalanannya untuk menjadi Pembunuh Iblis dan mencari cara untuk mengembalikan Nezuko menjadi manusia. Dia bergabung dengan organisasi Pembunuh Iblis, di mana dia bertemu dengan teman-teman dan pelatih yang membantunya memperkuat kemampuannya.</item>
+        <item>Fullmetal Alchemist: Brotherhood adalah anime yang mengambil latar dunia fiksi yang diisi dengan keajaiban dan teknologi yang maju. Ceritanya mengikuti petualangan dua bersaudara, Edward dan Alphonse Elric, yang berusaha untuk memperbaiki kesalahan besar mereka di masa lalu.</item>
+        <item>Haikyuu!! adalah anime yang menceritakan tentang perjuangan sekelompok pemain bola voli SMA bernama Hinata Shoyo dan timnya, yang ingin memenangkan turnamen nasional dan menjadi juara. </item>
+        <item>Hunter x Hunter adalah anime yang mengikuti kisah seorang anak laki-laki bernama Gon Freecss, yang ingin menjadi seorang Hunter seperti ayahnya yang telah menghilang. Hunter adalah profesi yang sangat dihormati di dunia Hunter x Hunter, dan mereka memiliki berbagai macam keahlian dan kemampuan untuk mengejar tujuan mereka. </item>
+        <item>Jujutsu Kaisen adalah anime yang mengambil latar di dunia tempat makhluk-makhluk yang disebut "curse" atau kutukan berada, yang merupakan energi negatif yang terlahir dari emosi manusia yang kuat dan negatif. Seorang siswa SMA bernama Yuji Itadori tanpa sengaja memasuki dunia ini ketika ia memakan satu jari dari Sukuna, Raja Setan, dalam upaya menyelamatkan teman sekelasnya dari makhluk kutukan.</item>
+        <item>My Hero Academia mengambil latar di sebuah dunia di mana hampir semua orang dilahirkan dengan Quirks, kekuatan super yang memungkinkan mereka melakukan hal-hal yang luar biasa. Izuku Midoriya, seorang anak SMA yang merupakan penggemar berat pahlawan super, bermimpi menjadi seorang pahlawan super seperti idolanya, All Might.</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/attack_on_titan</item>
+        <item>@drawable/blue_lock</item>
+        <item>@drawable/chainsaw_man</item>
+        <item>@drawable/death_note</item>
+        <item>@drawable/demon_slayer</item>
+        <item>@drawable/fullmetal_alchemist</item>
+        <item>@drawable/haikyuu</item>
+        <item>@drawable/hunter_x_hunter</item>
+        <item>@drawable/jujutsu_kaisen</item>
+        <item>@drawable/my_hero_academia</item>
+    </integer-array>
+
+    <string-array name="data_author">
+        <item>Hajime Isayama</item>
+        <item>Muneyuki Kaneshiro</item>
+        <item>Tatsuki Fujimoto</item>
+        <item>Nisio Isin</item>
+        <item>Koyoharu Gotōge</item>
+        <item>Hiromu Arakawa</item>
+        <item>Haruichi Furudate</item>
+        <item>Yoshihiro Togashi</item>
+        <item>Gege Akutami</item>
+        <item>Kohei Horikoshi</item>
+
+    </string-array>
+    <string-array name="data_genre">
+        <item>Action\nDark Fantasy\nPost-Apocalyptic </item>
+        <item>Sports</item>
+        <item>Action\nDark Fantasy\nHorror</item>
+        <item>Mystery\nSupernatural\nPsychological Thriller</item>
+        <item>Action\nDark Fantasy\nMartial Arts</item>
+        <item>Action\nAdventure\nSteampunk\nSci-fi</item>
+        <item>Sports\nComedy</item>
+        <item>Action\nFantasy\nMartial Arts</item>
+        <item>Action\nFantasy\nSupernatural</item>
+        <item>Action\nSci-Fi\nComedy</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>8.53 </item>
+        <item>8.30</item>
+        <item>8.65</item>
+        <item>8.62</item>
+        <item>8.52</item>
+        <item>9.11</item>
+        <item>8.44</item>
+        <item>9.04</item>
+        <item>8.65</item>
+        <item>7.90</item>
+    </string-array>
+
+
+</resources>
